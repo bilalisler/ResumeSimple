@@ -12,26 +12,30 @@ import MonitoLogo from "./monito.svg";
 import MobileVikingsLogo from "./mv.png";
 import NSNLogo from "./nsn.svg";
 import ParabolLogo from "./parabol.svg";
+import ENLogo from "./en.svg";
+import TRLogo from "./tr.png";
 import TastyCloudLogo from "./tastycloud.png";
 import YearProgressLogo from "./yearprogress.svg";
 import Minimal from "./minimal.svg";
 
 export {
-  ConsultlyLogo,
-  AmbitLogo,
-  BarepapersLogo,
-  BimLogo,
-  CDGOLogo,
-  ClevertechLogo,
-  EvercastLogo,
-  Howdy,
-  JarockiMeLogo,
-  JojoMobileLogo,
-  MonitoLogo,
-  MobileVikingsLogo,
-  NSNLogo,
-  ParabolLogo,
-  TastyCloudLogo,
-  YearProgressLogo,
-  Minimal,
+    ENLogo,
+    TRLogo,
+    ConsultlyLogo,
+    AmbitLogo,
+    BarepapersLogo,
+    BimLogo,
+    CDGOLogo,
+    ClevertechLogo,
+    EvercastLogo,
+    Howdy,
+    JarockiMeLogo,
+    JojoMobileLogo,
+    MonitoLogo,
+    MobileVikingsLogo,
+    NSNLogo,
+    ParabolLogo,
+    TastyCloudLogo,
+    YearProgressLogo,
+    Minimal,
 };
